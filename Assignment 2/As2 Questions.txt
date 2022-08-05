@@ -1,0 +1,35 @@
+01. WAP to print:
+        *
+      * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * *
+
+02. Write a program to print
+          1
+       2 3 2
+     3 4 5 4 3
+   4 5 6 7 6 5 4
+ 5 6 7 8 9 8 7 6 5
+
+03. Write a program to print Pascal's Triangle
+            1
+          1   1
+        1   2   1
+      1   3   3    1
+    1  4    6   4   1
+  1  5   10   10  5   1
+
+04. Write a C Program to Store Data in Structures Dynamically.
+
+05. Write a C Program to Calculate Difference Between Two Time Periods.
+
+06. Write a C Program to Copy String Without Using strcpy()
+
+07. Write a C Program to Count the Number of Vowels, Consonants from a string.
+
+08. Write a C Program to Find Largest Number Using Dynamic Memory Allocation.
+
+09. Write a C Program Swap Numbers in Cyclic Order Using Call by Reference
+
+10. Write a C Program to Add Two Matrices Using Multi-dimensional Arrays
