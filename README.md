@@ -1,2 +1,8 @@
 # Problem-Solving-with-C-for-2nd-Semester
-Assignments containing important problems for C Programming for Semester 2.
+
+All assignment questions and solutions for Problem Solving with C.
+[For 2nd Semester]
+
+University of Engineering and Management, Kolkata
+
+August 5, 2022
