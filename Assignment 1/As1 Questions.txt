@@ -1,0 +1,127 @@
+1. Write a C program to swap two values using pointers.
+
+2. Write a program to calculate average of numbers between m and n using pointer.
+
+3. Write a program in C to find the maximum number between two numbers using a pointer.
+
+4. Write a program in C to sort an array using Pointer.
+
+5. Write a program in C to add and subtract two numbers at run time.
+
+6. Write a C program to store information of n number of students using structure.
+
+7. Write a C program to add two distances (in inch-feet system) using structure.
+
+8. Define a recursive & non recursive function to calculate the sum of n natural numbers.
+
+9. Define a recursive & non recursive function to calculate the factorial of a number.
+
+10. Write a C program to calculate the transpose of a matrix.
+
+11. Write a program to check whether a string is palindrome or not.
+
+12. Write a C program to print the following pattern:
+A B C D E
+A B C D
+A B C
+A B
+A
+
+13. Write a C program to print the following pattern:
+5 4 3 2 1
+5 4 3 2
+5 4 3
+5 4
+5
+
+14. Write a C program to print the following pattern:
+5 5 5 5 5
+4 4 4 4
+3 3 3
+2 2
+1
+
+15. Write a C program to print the following pattern:
+5
+4 4
+3 3 3
+2 2 2 2
+1 1 1 1 1
+
+16. Write a C program to print the following pattern:
+A
+B C
+D E F
+G H I J
+
+17. Write a C program to print the following pattern:
+5
+5 4
+5 4 3
+5 4 3 2
+5 4 3 2 1
+
+18. Write a C program to print the following pattern:
+1
+2 3
+4 5 6
+7 8 9 10
+
+19. Write a C Program to check whether the given number is Armstrong or not.
+
+20. Write a C Program to check whether the given number is palindrome or not.
+
+21. Write a C Program to check whether the given input is vowel or consonant using switch case.
+
+22. Write a c program to calculate the sum of n natural numbers using while loop.
+
+23. Write a program in C to determine if an entered is leap year or not.
+
+24. Write a program in C to determine whether a number is prime or not.
+
+25. Write a program in C to determine whether a number is odd or even.
+
+26. Write a program to swap two integers without using 3rd variable.
+
+27. Write a program to calculate the maximum of three numbers using conditinal operators.
+
+28. Write a program to convert the temperature from Celsius to Fahrenheit and vice-versa.
+
+29. Write a program to calculate the length of a string without using strlen() function.
+
+30. Write a program to concatenate two strings without using strcat() function.
+
+31. Write a program to calculate the reverse of a string without using strrev() function.
+
+32. Write a program to print the following pattern:
+@
+@ @
+@ @ @
+@ @ @ @
+
+33. Write a program in C to calculate 2nd minimum number among three numbers using conditional statements.
+
+34. Write a program in C to find the largest and smallest element in an Array.
+
+35. Write a program in C to perform addition and subtraction of two matrices.
+
+36. Write a program in C to find Sum of n input numbers using Array.
+
+37. Write a program in C to sort the values of an array.
+
+38. Write a program in C to search a particular data element from an array.
+
+39. Write a C program to copy the contents of a text file to another text file.
+
+40. Write a C program to read some information from a text file.
+
+41. Write a C program to write something into a text file.
+
+42. Write a program in C to Implement Bubble Sort over a given set of numbers in an array.
+
+43. Write a program in C to Implement Insertion Sort over a given set of numbers in an array.
+
+44. C Program to Remove all Characters in a String Except Alphabets
+
+45. Write a program to display its own source code as output.
+
